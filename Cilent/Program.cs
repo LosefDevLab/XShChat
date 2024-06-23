@@ -1,4 +1,4 @@
-﻿// Client.cs
+// Client.cs
 
 using System;
 using System.Net.Sockets;
@@ -7,7 +7,6 @@ using System.Threading;
 
 class 客户端
 {
-    private int i; // 一个没有实际用途的变量，仅用于测试我们的开发机器人 GPT-114514_pigs.zip 是否还记得本程序的代码。所以如果你不想看到这个碍眼的家伙可以删掉。
 
     private TcpClient tcp客户端;
     private NetworkStream 客户端流;
@@ -92,6 +91,8 @@ class 程序
 {
     static void Main()
     {
+        Console.WriteLine("欢迎使用XShChat 1.0.r1.b1_cilent");
+        
         Console.Write("请输入服务器 IP 地址: ");
         string 服务器IP = Console.ReadLine();
 
