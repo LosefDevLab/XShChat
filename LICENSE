@@ -1,9 +1,74 @@
+XYLCS Studio Publication
+XYLCS Open Source File/Code Works License (XYLCS ORCL 1.1)
+Modified according to the Mulan Permissive License, Version 2
+First Edition
+
+    Author Information: XYLCS XIT LosefDevLab 2024-Now
+
+    The author and this license jointly declare: Your copying, use, modification, and distribution of the "software" are subject to the following terms of the XYLCS-ORCL License, Version 1 ("this license"):
+
+   0. Definitions
+
+      "Work" refers to a collection of code/resources/final works licensed under "this license," composed of "contributions."
+
+      "Contribution" refers to works protected by copyright law, licensed under "this license" by any "contributor/author."
+
+      "Contributor/Author" refers to natural persons or "legal entities" licensing works protected by copyright law under "this license."
+
+      "Legal Entity" refers to institutions submitting contributions and their "affiliated entities."
+
+      "Affiliated Entity" refers to institutions controlling, being controlled by, or under common control with the party acting under "this license." Control means having at least 50% direct or indirect voting rights, capital, or other valuable securities, subject to actual circumstances and the author's additional explanation and decision.
+
+   1. Grant of Copyright License
+
+      Each "contributor" grants you a perpetual, worldwide, free, non-exclusive, irrevocable copyright license under "this license," to copy, use, modify, and distribute its "contribution," with or without modifications, provided you comply with the author's requirements and this license.
+
+   2. Grant of Patent License
+
+      Each "contributor" grants you a perpetual, worldwide, free, non-exclusive, irrevocable (except as stated in this section) patent license under "this license," to make, have made, use, offer to sell, sell, import, and otherwise transfer its "contribution." This patent license only applies to "contributor's" contribution itself or any combination of its "contribution" with the "work" to which it was licensed that would necessarily infringe any such patent claims, excluding any modifications of the "contribution" or any other combinations that include the "contribution." If you or your "affiliated entity" initiate patent litigation (including counterclaims or cross-claims) or other patent enforcement actions alleging that the "work" or any portion of it infringes a patent, this patent license will terminate as of the date such litigation or action is filed.
+
+   3. Trademark License
+
+      "This license" does not grant permission to use the trade names, trademarks, service marks, or product names of the "contributor," except as required to describe the origin of the "contribution."
+
+   4. Distribution Restrictions
+
+      You may modify and distribute the product independently, but you must comply with the original author's requirements. The original author retains the final choice and retains the copyrights, trademarks, patents, and disclaimers in the "work."
+
+   5. Disclaimer and Limitation of Liability
+
+      The "work" and any "contributions" therein are provided on an "as-is" basis, without any express or implied warranties. Under no circumstances shall the "contributor" or copyright holder be liable to any party for any direct, indirect, incidental, or consequential damages arising out of the use of the "software" or any "contribution" therein, regardless of the cause of action or the legal theory, even if advised of the possibility of such damages.
+
+   6. Author's Independent Statement
+
+      When creating XShChat releases, please credit the original author and use the same license. 
+      XUCO copyright text:
+      (Stu.)XYLCS 2018-Now
+      (Stu.)XYLCS/XIT 2018-Now
+      (Stu.)XYLCS/XIT/LosefDevLab 2024-Now
+      XShChat tm. 2024-Now
+      XYLCS is Publisher
+      XYLCS/XIT is Member
+      XYLCS/XIT/LosefDevLab is Creator
+
+   End of Terms
+
+   How to apply the first edition of this license to your work?
+   
+   If you wish to apply the XYLCS-ORCL License, Version 1.1, to your new work, for ease of reference for recipients, it is recommended that you complete the following three steps:
+
+      1. Fill in the blanks, including the work name, the year of the first publication of the work, and your name as the copyright holder;
+
+      2. Create a file named "LICENSE" in the root directory of the work package, and include the entire license text in that file;
+
+
+
 XYLCS工作室出版
 XYLCS 开放源文件/代码类著作作品许可证（XYLCS ORCL 1.1）
 根据木兰宽松许可证第二版修改
 第一版
 
-    作者信息：请作者填空
+    作者信息：XYLCS XIT LosefDevLab 2024-Now
 
     作者与本许可证共同声明：您对“软件”的复制、使用、修改及分发受XYLCS-ORCL许可证，第1版（“本许可证”）的如下条款的约束：
 
@@ -42,7 +107,15 @@ XYLCS 开放源文件/代码类著作作品许可证（XYLCS ORCL 1.1）
 
    6.作者独自声明
 
-      请作者填空
+      制作XShChat发行版时请注明原作者,并且使用相同的许可证
+      XUCO 版权文本:
+      (Stu.)XYLCS 2018-Now
+      (Stu.)XYLCS/XIT 2018-Now
+      (Stu.)XYLCS/XIT/LosefDevLab 2024-Now
+      XShChat tm. 2024-Now
+      XYLCS is Publish
+      XYLCS/XIT is Member
+      XYLCS/XIT/LosefDevLab is Creator
 
 
 
