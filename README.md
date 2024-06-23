@@ -5,7 +5,8 @@
 #### The Easily Chat Server Manager
 ##### In ServerEdition, we have "/" type command to manager server, it very easy use.
 ###### More please read the docm.txt.
-
+#
+#
 ###### XShChat是一个C# Bash/命令行聊天软件（之前叫做XTalk）
 #### 简易聊天软件
 ##### 它可以在服务器或无图形界面操作系统上运行，非常易于使用。对于聊天者，我们有客户端版本。您只需知道服务器的IP和端口，然后就可以通过客户端版连接服务器进行聊天。
