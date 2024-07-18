@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
@@ -101,8 +101,6 @@ class 服务器
 
             // 广播新用户加入的消息两次
             广播消息($"{客户端信息.用户名} 加入了服务器");
-            广播消息($"{客户端信息.用户名} 加入了服务器");
-
             // 启动一个新线程来处理客户端通信
             Thread 客户端线程 = new Thread(new ParameterizedThreadStart(处理客户端通信));
             客户端线程.Start(客户端信息);
@@ -155,7 +153,6 @@ class 服务器
                 break;
 
             string 数据 = Encoding.UTF8.GetString(消息字节, 0, 读取字节数);
-            Console.WriteLine("接收自 " + 客户端信息.用户名 + ": " + 数据);
 
             // 广播消息给所有客户端
             广播消息($"{客户端信息.用户名}: {数据}");
@@ -467,7 +464,7 @@ class 程序
 {
     static void Main()
     {
-        Console.WriteLine("欢迎使用XShChat 1.0.r1.b1_server");
+        Console.WriteLine("欢迎使用XShChat 1.0.r1.b2_server");
 
         Console.Write("请输入服务器端口号: ");
         int 端口 = int.Parse(Console.ReadLine());
