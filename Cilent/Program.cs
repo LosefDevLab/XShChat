@@ -194,7 +194,7 @@ class 程序
 {
     static void Main()
     {
-        Console.WriteLine("欢迎使用XShChat 1.0.r1.b2_cilent");
+        Console.WriteLine("欢迎使用XShChat 1.0.r1.b3_cilent");
 
         Console.Write("请输入服务器 IP 地址: ");
         string 服务器IP = Console.ReadLine();
