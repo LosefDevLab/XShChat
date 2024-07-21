@@ -129,9 +129,8 @@ class 程序
         if (string.IsNullOrEmpty(用户名))
             用户名 = Environment.MachineName;
 
-        // 发送加入服务器的消息两次
+        // 发送加入服务器的消息
         string 加入消息 = $"{用户名} 加入了服务器";
-        发送消息(加入消息);
         发送消息(加入消息);
 
         Thread 接收线程 = new Thread(new ThreadStart(接收消息));
@@ -176,7 +175,7 @@ class 程序
                 break;
 
             string 数据 = Encoding.UTF8.GetString(消息, 0, 读取字节数);
-            Console.WriteLine("接收: " + 数据);
+            Console.WriteLine(数据);
         }
 
         Console.WriteLine("已断开与服务器的连接。如服务器多次连接不上，可能已被封禁");
@@ -195,8 +194,8 @@ class 程序
 {
     static void Main()
     {
-        Console.WriteLine("欢迎使用XShChat 1.0.r1.b1_cilent");
-        
+        Console.WriteLine("欢迎使用XShChat 1.0.r1.b2_cilent");
+
         Console.Write("请输入服务器 IP 地址: ");
         string 服务器IP = Console.ReadLine();
 
